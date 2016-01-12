@@ -1,0 +1,2 @@
+'[("sants",["art","fotografia"]),("cinema","guinardó")]'
+'[("sants",["art","fotografia"]),("cinema","guinardó")]'
